@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: linear-gradient(rgb(169,213,209), rgb(121,155,209));
+  color: rgb(42,5,50);
+  height: 50px;
+}
+
+header h1 {
+  padding-top: 5px;
+  text-align: center;
+}
