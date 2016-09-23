@@ -1,1 +1,3 @@
-console.log("Hey this works");
+function confirmation() {
+  console.log("Hey this works!");
+}
